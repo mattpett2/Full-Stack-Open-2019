@@ -1,0 +1,13 @@
+ul.cntrylist {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+img.flag {
+    max-width: 175px;
+    
+}
+
+img.weather {
+    max-width: 10%;
+}
